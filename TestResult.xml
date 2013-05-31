@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Alex\Documents\Visual Studio 2012\Projects\TestUnit\BuildArtifacts\TestUnit.exe" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-04-18" time="11:01:32">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Alex\Documents\Visual Studio 2012\Projects\TestUnit" machine-name="ALEX-PC" user="Alex" user-domain="Alex-PC" />
+  <culture-info current-culture="en-US" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\Alex\Documents\Visual Studio 2012\Projects\TestUnit\BuildArtifacts\TestUnit.exe" executed="True" result="Success" success="True" time="0.195" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestUnit" executed="True" result="Success" success="True" time="0.157" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Program" executed="True" result="Success" success="True" time="0.152" asserts="0">
+            <results>
+              <test-case name="TestUnit.Program.Array" executed="True" result="Success" success="True" time="0.064" asserts="2" />
+              <test-case name="TestUnit.Program.Exception" executed="True" result="Success" success="True" time="0.014" asserts="1" />
+              <test-case name="TestUnit.Program.Incrcount" executed="True" result="Success" success="True" time="0.025" asserts="1" />
+              <test-case name="TestUnit.Program.MyTestFunc" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TestUnit.Program.Type" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
